@@ -189,9 +189,3 @@ The report covers all analysis phases including methodology, model selection rat
 **Mohammad Ibtesam**  
 PM Accelerator Technical Assessment Submission  
 📅 April 2026
-
----
-
-<p align="center">
-  <i>Built with ☕ and 🐍 for the PM Accelerator Assessment</i>
-</p>
